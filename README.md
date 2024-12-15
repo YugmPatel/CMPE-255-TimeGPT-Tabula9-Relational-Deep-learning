@@ -11,7 +11,7 @@ Ensure you have the following installed:
 
 ## Video Tutorial
 **Watch the complete video explanation here:**  
-[YouTube Video](https://youtu.be/-HniiE2Qh1Q)
+[Video Link](https://youtu.be/-HniiE2Qh1Q)
 
 The video provides a detailed walkthrough of each notebook in the repository, including:
 - The objectives of the notebooks.
